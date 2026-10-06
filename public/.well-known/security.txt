@@ -1,0 +1,6 @@
+# Fictional training environment. No real service, no real data.
+# TODO(Sasha): replace Contact and Canonical once the alias and the server exist.
+Contact: mailto:security@example.invalid
+Expires: 2027-01-31T23:00:00.000Z
+Preferred-Languages: en, fr
+Canonical: https://miniluv.example.invalid/.well-known/security.txt

@@ -1,0 +1,24 @@
+{
+  "citizens": [
+    {
+      "citizen_id": "ML-0417-K",
+      "display_name": "Mira Ostrander",
+      "sector": "Sector 7, Block C"
+    },
+    {
+      "citizen_id": "ML-0582-R",
+      "display_name": "Felix Quarry",
+      "sector": "Sector 3, Block F"
+    },
+    {
+      "citizen_id": "ML-0733-V",
+      "display_name": "Noor Tallis",
+      "sector": "Sector 11, Block A"
+    },
+    {
+      "citizen_id": "ML-0901-B",
+      "display_name": "Ines Larkspur",
+      "sector": "Sector 5, Block D"
+    }
+  ]
+}

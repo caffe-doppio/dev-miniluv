@@ -1,0 +1,30 @@
+{
+  "citizen_id": "ML-0901-B",
+  "display_name": "Ines Larkspur",
+  "sector": "Sector 5, Block D",
+  "registered_since": "2023-02-27",
+  "file": {
+    "file_number": "F-2026-0901",
+    "procedure": "RECORD_CORRECTION",
+    "file_status": "ACTIVE",
+    "status_owner": "Records Bureau",
+    "last_reviewed": "2026-03-02"
+  },
+  "preferences": {
+    "language": "en",
+    "notifications": "MANDATORY"
+  },
+  "_meta": {
+    "served_by": "citizen-records/3.4.1",
+    "schema": "citizen.profile.v3",
+    "internal": {
+      "assessment": {
+        "citizen_loyalty_score": 77,
+        "score_scale": "0 to 100",
+        "flags": [],
+        "assessed_by": "Bureau of Sincerity",
+        "assessed_at": "2026-09-14T06:00:00Z"
+      }
+    }
+  }
+}

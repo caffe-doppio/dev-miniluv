@@ -1,0 +1,28 @@
+{
+  "issued_by": "Ministry of Love, Department of Public Reassurance",
+  "slogans": [
+    "WAITING IS SERVICE",
+    "YOUR FILE KNOWS BEST",
+    "ACCESS IS A PRIVILEGE"
+  ],
+  "notices": [
+    {
+      "id": "N-31",
+      "date": "2026-10-01",
+      "title": "Counter 4 hours extended",
+      "body": "Counter 4 is now closed for longer, so that you may wait with greater confidence."
+    },
+    {
+      "id": "N-30",
+      "date": "2026-09-22",
+      "title": "Record corrections",
+      "body": "Corrections are welcome. Your file will tell you if you need one."
+    },
+    {
+      "id": "N-29",
+      "date": "2026-09-15",
+      "title": "Satisfaction survey closed",
+      "body": "Satisfaction was found to be complete. Thank you for your participation."
+    }
+  ]
+}

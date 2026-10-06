@@ -1,0 +1,11 @@
+{
+  "citizen_id": "ML-0901-B",
+  "procedure": "RECORD_CORRECTION",
+  "eligible": false,
+  "status": "DENIED",
+  "reasons": [
+    "SUPPORTING_DOCUMENT_MISSING"
+  ],
+  "decided_by": "Eligibility Engine",
+  "decided_at": "2026-09-30T08:00:00Z"
+}

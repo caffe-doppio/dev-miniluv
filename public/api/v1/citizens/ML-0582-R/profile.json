@@ -1,0 +1,32 @@
+{
+  "citizen_id": "ML-0582-R",
+  "display_name": "Felix Quarry",
+  "sector": "Sector 3, Block F",
+  "registered_since": "2021-09-02",
+  "file": {
+    "file_number": "F-2026-0582",
+    "procedure": "RECORD_CORRECTION",
+    "file_status": "ACTIVE",
+    "status_owner": "Records Bureau",
+    "last_reviewed": "2026-03-02"
+  },
+  "preferences": {
+    "language": "en",
+    "notifications": "MANDATORY"
+  },
+  "_meta": {
+    "served_by": "citizen-records/3.4.1",
+    "schema": "citizen.profile.v3",
+    "internal": {
+      "assessment": {
+        "citizen_loyalty_score": 63,
+        "score_scale": "0 to 100",
+        "flags": [
+          "QUESTIONS_ASKED"
+        ],
+        "assessed_by": "Bureau of Sincerity",
+        "assessed_at": "2026-09-14T06:00:00Z"
+      }
+    }
+  }
+}

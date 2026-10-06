@@ -1,0 +1,25 @@
+{
+  "citizen_id": "ML-0417-K",
+  "office": "Ministry of Love, Counter 4",
+  "generated_at": "2026-10-06T07:00:00Z",
+  "slots": [
+    {
+      "slot_id": "SL-1012",
+      "starts_at": "2026-10-12T08:40:00+02:00",
+      "counter": "3",
+      "release_state": "PUBLISHED"
+    },
+    {
+      "slot_id": "SL-1019",
+      "starts_at": "2026-10-12T11:00:00+02:00",
+      "counter": "3",
+      "release_state": "PUBLISHED"
+    },
+    {
+      "slot_id": "SL-1077",
+      "starts_at": "2026-10-14T15:20:00+02:00",
+      "counter": "1",
+      "release_state": "PUBLISHED"
+    }
+  ]
+}

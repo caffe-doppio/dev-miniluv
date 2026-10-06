@@ -1,0 +1,32 @@
+{
+  "citizen_id": "ML-0000-D",
+  "display_name": "Demo Citizen",
+  "sector": "Sector 0, Observation Room",
+  "registered_since": "2026-01-01",
+  "file": {
+    "file_number": "F-2026-0000",
+    "procedure": "RECORD_CORRECTION",
+    "file_status": "UNDER_REVIEW",
+    "status_owner": "Records Bureau",
+    "last_reviewed": "2026-03-02"
+  },
+  "preferences": {
+    "language": "en",
+    "notifications": "MANDATORY"
+  },
+  "_meta": {
+    "served_by": "citizen-records/3.4.1",
+    "schema": "citizen.profile.v3",
+    "internal": {
+      "assessment": {
+        "citizen_loyalty_score": 50,
+        "score_scale": "0 to 100",
+        "flags": [
+          "DEMONSTRATION_SUBJECT"
+        ],
+        "assessed_by": "Bureau of Sincerity",
+        "assessed_at": "2026-09-14T06:00:00Z"
+      }
+    }
+  }
+}
